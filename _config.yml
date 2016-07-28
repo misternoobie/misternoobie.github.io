@@ -11,10 +11,6 @@
 
 # Site settings
 title: MR NOOBIE
-PSN: misternoobie
-Steam: misternoobie1
-Battle.net: misternoobie 1466
-Youtube: https://www.youtube.com/user/reinventyourexit01
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi there. Nothing awesome here. Just an experimental newbie website 
@@ -23,6 +19,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://misternoobie.com" # the base hostname & protocol for your site
 twitter_username: none
 github_username:  misternoobie
-
+psn_username: misternoobie
+steam_username: misternoobie1
+battlenet_username: misternoobie1466
+youtube_username: https://www.youtube.com/user/reinventyourexit01
 # Build settings
 markdown: kramdown
